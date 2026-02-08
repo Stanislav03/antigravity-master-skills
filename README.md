@@ -47,7 +47,7 @@ The **Antigravity Master Skills Package** is designed to transform any AI-assist
 Clone this repository and move the `skills` folder into your AI agent's workspace (usually located at `.agent/skills`).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/antigravity-master-skills
+git clone https://github.com/Stanislav03/antigravity-master-skills
 ```
 
 ### 2. Integration with Antigravity
@@ -80,4 +80,5 @@ antigravity-master-skills/
 This project is licensed under the MIT License - feel free to share it with your friends and the community!
 
 ---
-*Created with 🧊 Antigravity Studio Intelligence.*
+*Created by Stanislav03.*
+
